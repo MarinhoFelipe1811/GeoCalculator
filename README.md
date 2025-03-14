@@ -1,7 +1,4 @@
 # GeoCalculator
-Calculadora de área, perímetro e volume para formas geométricas em Python.
-
-# GeoCalculator
 
 **GeoCalculator** é uma aplicação em Python para calcular área, perímetro e volume de formas geométricas 2D e 3D, como círculos, quadrados, cubos e cilindros.
 
