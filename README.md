@@ -19,15 +19,7 @@
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/GeoCalculator.git
-Acesse o diretório do projeto:
+Acesse o diretório do projeto.
 
-bash
-Copiar
-Editar
-cd GeoCalculator
 Execute o programa:
-
-bash
-Copiar
-Editar
 python main.py
